@@ -1,4 +1,6 @@
 *.pyc
+*~
+*.swp
 underlay
 data/event-log
 data/cache/
